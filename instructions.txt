@@ -1,0 +1,3 @@
+data/Trace/trace.csv, data/Formula/formula_delete.mfotl, data/Signature/sig.sig
+data/Trace/trace.csv, data/Formula/formula_select.mfotl, data/Signature/sig.sig
+data/Trace/trace.csv, data/Formula/formula_test.mfotl, data/Signature/sig.sig
