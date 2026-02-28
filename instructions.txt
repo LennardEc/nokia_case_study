@@ -1,3 +1,4 @@
-Trace/trace.csv, Formula/formula_delete.mfotl, Signature/sig.sig
-Trace/trace.csv, Formula/formula_select.mfotl, Signature/sig.sig
-Trace/trace.csv, Formula/formula_test.mfotl, Signature/sig.sig
+Trace, Policy, Signature
+Trace/trace.csv: CSV, Formula/formula_delete.mfotl: MFOTL, Signature/sig.sig
+Trace/trace.csv: CSV, Formula/formula_select.mfotl: MFOTL, Signature/sig.sig
+Trace/trace.csv: CSV, Formula/formula_test.mfotl: MFOTL, Signature/sig.sig
